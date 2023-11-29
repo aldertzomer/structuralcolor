@@ -1,7 +1,7 @@
 #!/bin/bash
 # $1 is a folder to analyze
 # outputfiles are tmpout123 , structuralcolouralignments.txt structuralcolourpredictionmatrix.txt, structuralcolourvotes.txt
-# obviously this is only for internal use. Slightly embarrassing bash code
+# This is only for internal use. Slightly embarrassing bash code
 
 cd $1 # never ever ever remove this line. ever. just don't
 cd .. #also keep this intact
